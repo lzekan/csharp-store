@@ -1,0 +1,482 @@
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\testProject.exe
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\testProject.deps.json
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\testProject.runtimeconfig.json
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\testProject.runtimeconfig.dev.json
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\testProject.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ref\testProject.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\testProject.pdb
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\MessagePack.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\MessagePack.Annotations.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.ServiceHub.Client.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.ServiceHub.Framework.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Embeddable.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.12.0.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.15.0.DesignTime.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.15.1.DesignTime.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.15.6.DesignTime.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Threading.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Utilities.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Validation.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Nerdbank.Streams.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\StreamJsonRpc.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\System.ComponentModel.Composition.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\System.Management.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\en\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pt\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\cs\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\de\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\es\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\fr\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\it\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ja\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ko\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pl\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\ru\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\tr\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\StreamJsonRpc.resources.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\lukaz\source\repos\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.AssemblyReference.cache
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.ResolveComReference.cache
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmEditForm.resources
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmSQLTest.resources
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmStore.resources
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.Properties.Resources.resources
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.GenerateResource.cache
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.AssemblyInfoInputs.cache
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.AssemblyInfo.cs
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.CoreCompileInputs.cache
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.CopyComplete
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.dll
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\ref\testProject.dll
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.pdb
+C:\Users\lukaz\source\repos\testProject\testProject\obj\Debug\net5.0-windows\testProject.genruntimeconfig.cache
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\testProject.exe
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\testProject.deps.json
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\testProject.runtimeconfig.json
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\testProject.runtimeconfig.dev.json
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\testProject.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ref\testProject.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\testProject.pdb
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\MessagePack.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\MessagePack.Annotations.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.ServiceHub.Client.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.ServiceHub.Framework.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Embeddable.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.12.0.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.15.0.DesignTime.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.15.1.DesignTime.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.15.6.DesignTime.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Threading.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Utilities.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Validation.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Nerdbank.Streams.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\StreamJsonRpc.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\System.ComponentModel.Composition.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\System.Management.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\en\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pt\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\cs\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\de\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\es\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\fr\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\it\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ja\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ko\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pl\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\ru\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\tr\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.AssemblyReference.cache
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.ResolveComReference.cache
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmEditForm.resources
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmSQLTest.resources
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmStore.resources
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.Properties.Resources.resources
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.GenerateResource.cache
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.AssemblyInfoInputs.cache
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.AssemblyInfo.cs
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.CoreCompileInputs.cache
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.CopyComplete
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\ref\testProject.dll
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.pdb
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.genruntimeconfig.cache
+C:\Users\lukaz\OneDrive\Radna površina\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmPayment.resources
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\testProject.exe
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\testProject.deps.json
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\testProject.runtimeconfig.json
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\testProject.runtimeconfig.dev.json
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\testProject.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\testProject.pdb
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Azure.Core.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Azure.Identity.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\MessagePack.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\MessagePack.Annotations.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.ServiceHub.Client.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.ServiceHub.Framework.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Imaging.Interop.14.0.DesignTime.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.RemoteControl.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.RpcContracts.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Embeddable.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.10.0.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.11.0.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.12.0.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.15.0.DesignTime.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.15.1.DesignTime.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.15.6.DesignTime.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Telemetry.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Threading.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Utilities.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Utilities.Internal.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Microsoft.VisualStudio.Validation.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Nerdbank.Streams.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\StreamJsonRpc.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\System.ComponentModel.Composition.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\System.IO.Pipelines.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\System.Management.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\System.Runtime.Caching.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.ServiceHub.Framework.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.ServiceHub.Resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.Threading.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\en\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pt\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.Utilities.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\cs\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\de\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\es\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\fr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\it\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ja\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ko\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pl\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ru\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\tr\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\Microsoft.VisualStudio.Validation.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\cs\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\de\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\es\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\fr\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\it\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ja\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ko\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pl\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\pt-BR\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\ru\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\tr\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hans\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\zh-Hant\StreamJsonRpc.resources.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\bin\Debug\net5.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.AssemblyReference.cache
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.ResolveComReference.cache
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmEditForm.resources
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmPayment.resources
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmSQLTest.resources
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.frmStore.resources
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.Properties.Resources.resources
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.GenerateResource.cache
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.AssemblyInfoInputs.cache
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.AssemblyInfo.cs
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.CoreCompileInputs.cache
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.csproj.CopyComplete
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\refint\testProject.dll
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.pdb
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\testProject.genruntimeconfig.cache
+C:\Users\lukaz\OneDrive\Dokumenti\testProject\testProject\obj\Debug\net5.0-windows\ref\testProject.dll
