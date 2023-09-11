@@ -64,8 +64,8 @@ namespace testProject
 
             editFoodMapNew = new Dictionary<string, int>(editFoodMap);
 
-            btnLeft.BackgroundImage = frm.resizeImage(Image.FromFile("C:\\Users\\lukaz\\OneDrive\\Desktop\\hrana_ikone\\hoverBackgrounds\\LeftArrow.png"), new Size(100, 40));
-            btnRight.BackgroundImage = frm.resizeImage(Image.FromFile("C:\\Users\\lukaz\\OneDrive\\Desktop\\hrana_ikone\\hoverBackgrounds\\RightArrow.png"), new Size(100, 40));
+            btnLeft.BackgroundImage = frm.resizeImage(Image.FromFile("..\\..\\..\\..\\hrana_ikone\\hoverBackgrounds\\LeftArrow.png"), new Size(100, 40));
+            btnRight.BackgroundImage = frm.resizeImage(Image.FromFile("..\\..\\..\\..\\hrana_ikone\\hoverBackgrounds\\RightArrow.png"), new Size(100, 40));
 
 
             setValues();

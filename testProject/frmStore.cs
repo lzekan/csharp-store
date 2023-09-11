@@ -97,7 +97,7 @@ namespace testProject
 
         public void toIcons(Button btn)
         {
-            btn.Image = resizeImage(Image.FromFile("C:\\Users\\lukaz\\OneDrive\\Desktop\\hrana_ikone\\" + btn.Text + ".png"), new Size(30, 30));
+            btn.Image = resizeImage(Image.FromFile("..\\..\\..\\..\\hrana_ikone\\" + btn.Text + ".png"), new Size(30, 30));
             btn.ImageAlign = ContentAlignment.MiddleRight;
             btn.TextAlign = ContentAlignment.MiddleLeft;
         }
@@ -134,7 +134,7 @@ namespace testProject
             expandButton(btn);
             
             toWords(btn);
-            Image backgroundImage = Image.FromFile("C:\\Users\\lukaz\\OneDrive\\Desktop\\hrana_ikone\\hoverBackgrounds\\" + btn.Text + ".jpg");
+            Image backgroundImage = Image.FromFile("..\\..\\..\\..\\hrana_ikone\\hoverBackgrounds\\" + btn.Text + ".jpg");
             btn.BackgroundImage = backgroundImage;
         }
       
